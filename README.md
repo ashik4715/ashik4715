@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ashik4715.github.io/myportfolio/](https://ashik4715.github.io/myportfolio/)
 
-- 💬 Ask me about **vue3,PHP,Laravel.**
+- 💬 Ask me about **Vue3 JS, PHP, Laravel, Amazon Web Services, FiveM.**
 
 - 📫 How to reach me **ashikurjhalak@gmail.com**
 
