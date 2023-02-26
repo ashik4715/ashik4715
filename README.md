@@ -1,3 +1,31 @@
+<h1 align="center">Hi 👋, I am Md Ashikur Rahman</h1>
+<h3 align="center">I am from Bangladesh 🇧🇩 & currently living in London, United Kingdom. At present, I completed Master's in the Information Technology Engineering at University of Applied Sciences Wedel. Previously I worked for four years as a Software Developer at MNB Technology BD LTD.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik4715&label=Profile%20views&color=0e75b6&style=flat" alt="ashik4715" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashik4715" alt="ashik4715" /></a> </p>
+
+<p dir="auto"><a href="https://www.fiverr.com/ashikurjhalak/" rel="nofollow"><img src="https://camo.githubusercontent.com/2fa814acf6ad7f100f0f3098ab0fb8dd59f7eaba15232bb778a827fcd3bcb599/68747470733a2f2f696d672e736869656c64732e696f2f776562736974653f6c6162656c3d464956455252267374796c653d666f722d7468652d62616467652675726c3d68747470733a2f2f7777772e6669766572722e636f6d2f6b617a695f7368616d696d2f" alt="Website" data-canonical-src="https://img.shields.io/website?label=FIVERR&amp;style=for-the-badge&amp;url=https://www.fiverr.com/ashikurjhalak/" style="max-width: 100%;"></a>
+<a href="https://discord.gg/jKywhHAQWb" rel="nofollow"><img src="https://camo.githubusercontent.com/2e607ed5f8bad763eb21821e42434e048df1330acf0cb45c5c670f648b50b7f4/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3736373732363637373532393835333939323f7374796c653d666f722d7468652d6261646765266c6162656c3d446973636f7264253230536572766572" alt="Discord" data-canonical-src="https://img.shields.io/discord/767726677529853992?style=for-the-badge&amp;label=Discord%20Server" style="max-width: 100%;"></a></p>
+- 🔭 I’m currently working on [Sprinkler Response Time Project](https://github.com/ashik4715/sprinkler-project)
+
+- 🌱 I’m currently learning **AWS EC2, React, NodeJS, Nuxt, Saas, Cypress for testing.**
+
+- 👯 I’m looking to collaborate on [Fiverr Projects](https://www.fiverr.com/ashikurjhalak)
+
+- 🤝 I’m looking for help with [Fiverr Clients](https://www.fiverr.com/ashikurjhalak)
+
+- 👨‍💻 All of my projects are available at [https://ashik4715.github.io/myportfolio/](https://ashik4715.github.io/myportfolio/)
+
+- 💬 Ask me about **Vue3 JS, PHP, Laravel, Amazon Web Services, FiveM.**
+
+- 📫 How to reach me **ashikurjhalak@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_jx9TyMmbcsDEwYSptIU_BvExBdMmk56/view](https://drive.google.com/file/d/1_jx9TyMmbcsDEwYSptIU_BvExBdMmk56/view)
+
+- ⚡ Fun fact **I have a good sense of humor, love to cook and love to play completive PC games.**
+
+<h2 dir="auto"><a id="user-content--my-programming-stats" class="anchor" aria-hidden="true" href="#-my-programming-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My Programming Stats</h2>
 <p dir="auto"><animated-image data-catalyst="" style="float: right; max-width: 250px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-target="animated-image.originalLink"><img align="right" alt="Coding" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" target="_blank">
@@ -24,32 +52,6 @@
         </span>
       </span></animated-image>
 </p>
-<h1 align="center">Hi 👋, I am Md Ashikur Rahman</h1>
-<h3 align="center">A passionate software developer from UK.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik4715&label=Profile%20views&color=0e75b6&style=flat" alt="ashik4715" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashik4715" alt="ashik4715" /></a> </p>
-
-<p dir="auto"><a href="https://www.fiverr.com/ashikurjhalak/" rel="nofollow"><img src="https://camo.githubusercontent.com/2fa814acf6ad7f100f0f3098ab0fb8dd59f7eaba15232bb778a827fcd3bcb599/68747470733a2f2f696d672e736869656c64732e696f2f776562736974653f6c6162656c3d464956455252267374796c653d666f722d7468652d62616467652675726c3d68747470733a2f2f7777772e6669766572722e636f6d2f6b617a695f7368616d696d2f" alt="Website" data-canonical-src="https://img.shields.io/website?label=FIVERR&amp;style=for-the-badge&amp;url=https://www.fiverr.com/ashikurjhalak/" style="max-width: 100%;"></a>
-<a href="https://discord.gg/jKywhHAQWb" rel="nofollow"><img src="https://camo.githubusercontent.com/2e607ed5f8bad763eb21821e42434e048df1330acf0cb45c5c670f648b50b7f4/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3736373732363637373532393835333939323f7374796c653d666f722d7468652d6261646765266c6162656c3d446973636f7264253230536572766572" alt="Discord" data-canonical-src="https://img.shields.io/discord/767726677529853992?style=for-the-badge&amp;label=Discord%20Server" style="max-width: 100%;"></a></p>
-- 🔭 I’m currently working on [Sprinkler Response Time Project](https://github.com/ashik4715/sprinkler-project)
-
-- 🌱 I’m currently learning **AWS EC2, React, NodeJS, Nuxt, Saas, Cypress for testing.**
-
-- 👯 I’m looking to collaborate on [Fiverr Projects](https://www.fiverr.com/ashikurjhalak)
-
-- 🤝 I’m looking for help with [Fiverr Clients](https://www.fiverr.com/ashikurjhalak)
-
-- 👨‍💻 All of my projects are available at [https://ashik4715.github.io/myportfolio/](https://ashik4715.github.io/myportfolio/)
-
-- 💬 Ask me about **Vue3 JS, PHP, Laravel, Amazon Web Services, FiveM.**
-
-- 📫 How to reach me **ashikurjhalak@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_jx9TyMmbcsDEwYSptIU_BvExBdMmk56/view](https://drive.google.com/file/d/1_jx9TyMmbcsDEwYSptIU_BvExBdMmk56/view)
-
-- ⚡ Fun fact **I have a good sense of humor, love to cook and love to play completive PC games.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
