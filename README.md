@@ -5,8 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashik4715" alt="ashik4715" /></a> </p>
 
-<p dir="auto"><a href="https://www.fiverr.com/ashikurjhalak/" rel="nofollow"><img src="https://camo.githubusercontent.com/2fa814acf6ad7f100f0f3098ab0fb8dd59f7eaba15232bb778a827fcd3bcb599/68747470733a2f2f696d672e736869656c64732e696f2f776562736974653f6c6162656c3d464956455252267374796c653d666f722d7468652d62616467652675726c3d68747470733a2f2f7777772e6669766572722e636f6d2f6b617a695f7368616d696d2f" alt="Website" data-canonical-src="https://img.shields.io/website?label=FIVERR&amp;style=for-the-badge&amp;url=https://www.fiverr.com/ashikurjhalak/" style="max-width: 100%;"></a>
-<a href="https://discord.gg/jKywhHAQWb" rel="nofollow"><img src="https://camo.githubusercontent.com/2e607ed5f8bad763eb21821e42434e048df1330acf0cb45c5c670f648b50b7f4/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3736373732363637373532393835333939323f7374796c653d666f722d7468652d6261646765266c6162656c3d446973636f7264253230536572766572" alt="Discord" data-canonical-src="https://img.shields.io/discord/767726677529853992?style=for-the-badge&amp;label=Discord%20Server" style="max-width: 100%;"></a></p>
+<p dir="auto">
+<a href="https://discord.gg/ttB6QUGh" rel="nofollow"><img src="https://img.shields.io/discord/767726677529853992?style=for-the-badge&amp;label=Discord%20Server" alt="Discord" data-canonical-src="https://img.shields.io/discord/767726677529853992?style=for-the-badge&amp;label=Discord%20Server" style="max-width: 100%;"></a>
+</p>
 - 🔭 I’m currently working on [Sprinkler Response Time Project](https://github.com/ashik4715/sprinkler-project)
 
 - 🌱 I’m currently learning **AWS EC2, React, NodeJS, Nuxt, Saas, Cypress for testing.**
