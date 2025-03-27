@@ -66,4 +66,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashik4715&show_icons=true&locale=en" alt="ashik4715" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashik4715&" alt="ashik4715" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=ashik4715" alt="ashik4715" /></p>
