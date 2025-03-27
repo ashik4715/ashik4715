@@ -10,7 +10,7 @@
 </p>
 - 🔭 I’m currently working on [Sprinkler Response Time Project](https://github.com/ashik4715/sprinkler-project)
 
-- 🌱 I’m currently learning **AWS EC2, React, NodeJS, Nuxt, Saas, Cypress for testing.**
+- 🌱 I’m currently learning **MongoDB, NextJS, Go, Rust, NestJS, Playwright for e2e testing.**
 
 - 👯 I’m looking to collaborate on [Fiverr Projects](https://www.fiverr.com/ashikurjhalak)
 
