@@ -40,8 +40,8 @@ I am a **Senior Backend Engineer** at **Wegro Global** with over 6 years of expe
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <a href="[https://github.com/ryo-ma/github-profile-trophy](https://personal-trophy.vercel.app/api?username=ashik4715&theme=neon)">
-    <img src="[https://github-profile-trophy.vercel.app/?username=ashik4715&theme=onedark&no-frame=false&margin-w=4](https://personal-trophy.vercel.app/api?username=ashik4715&theme=neon)" alt="ashik4715 trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ashik4715&theme=neon&no-frame=false&margin-w=4" alt="ashik4715 trophies" />
   </a>
 </p>
 
